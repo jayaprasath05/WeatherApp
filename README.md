@@ -66,24 +66,6 @@ WeatherApp-master
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository.
-
-```
-git clone https://github.com/your-username/WeatherApp.git
-```
-
-2. Open the project in Android Studio.
-
-3. Sync Gradle.
-
-4. Replace the API key with your own OpenWeatherMap API key if required.
-
-5. Run the application on an emulator or Android device.
-
----
-
 ## 📷 Screenshots
 
 ### Home Screen
