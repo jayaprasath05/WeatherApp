@@ -87,13 +87,16 @@ git clone https://github.com/your-username/WeatherApp.git
 ## 📷 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.jpg)
+
+![Home Screen](screenshots/home_screen.jpeg)
 
 ### Chennai Weather
-![Chennai Weather](screenshots/weather_chennai.jpg)
+
+![Chennai Weather](screenshots/weather_chennai.jpeg)
 
 ### Kanchipuram Weather
-![Kanchipuram Weather](screenshots/weather_kanchipuram.jpg)
+
+![Kanchipuram Weather](screenshots/weather_kanchipuram.jpeg)
 
 ---
 
